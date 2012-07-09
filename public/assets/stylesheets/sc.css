@@ -294,7 +294,7 @@ ul {
   margin-bottom: 8px;
 }
 
-.filter_status ul li {
+.filter_status ul li a{
   color: #FDB18D;
   font-size: 12px;
   padding-bottom: 5px;
@@ -404,6 +404,10 @@ section {
 .section_footer {
   border-top: 1px solid #d4d4d4;
   margin: 5px 10px;
+}
+
+.specific_decoration {
+  text-decoration: none;
 }
 
 /* OFFER PAGE END */
